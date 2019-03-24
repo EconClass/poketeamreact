@@ -2,7 +2,7 @@
   "name": "poketeamreact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/EconClass/poketeamreact/",
+  "homepage": "https://econclass.github.io/poketeamreact/",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "bootstrap": "^4.3.1",
