@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import './Team.css';
 import './Pokemon.js'
-const baseUrl = 'https://poke-team-node.herokuapp.com/';
-// const devUrl = 'http://localhost:5000/'
+const url = 'https://poke-team-node.herokuapp.com/teams/all';
 
+// ==================VIEWS================== \\
 class TeamView extends Component {
   // constructor(props) {
   //   super(props)
@@ -28,6 +28,7 @@ class TeamView extends Component {
   }
 }
 
+// ==================LOGIC================== \\
 class Team extends Component {
   constructor(props) {
     super(props)
@@ -37,7 +38,7 @@ class Team extends Component {
   }
   
   async componentDidMount() {
-    let response = await fetch(baseUrl + 'teams/all')
+    let response = await fetch(url)
     let teamsR = await response.json()
 
     this.setState({ teams: teamsR.docs });
