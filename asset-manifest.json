@@ -1,13 +1,13 @@
 {
-  "main.css": "/EconClass/poketeamreact/static/css/main.739f6f14.chunk.css",
-  "main.js": "/EconClass/poketeamreact/static/js/main.181d86a1.chunk.js",
-  "main.js.map": "/EconClass/poketeamreact/static/js/main.181d86a1.chunk.js.map",
-  "runtime~main.js": "/EconClass/poketeamreact/static/js/runtime~main.0e3f4154.js",
-  "runtime~main.js.map": "/EconClass/poketeamreact/static/js/runtime~main.0e3f4154.js.map",
-  "static/js/2.e6e200f5.chunk.js": "/EconClass/poketeamreact/static/js/2.e6e200f5.chunk.js",
-  "static/js/2.e6e200f5.chunk.js.map": "/EconClass/poketeamreact/static/js/2.e6e200f5.chunk.js.map",
-  "index.html": "/EconClass/poketeamreact/index.html",
-  "precache-manifest.3605ed1ba5fd396c97fb5702b72689dd.js": "/EconClass/poketeamreact/precache-manifest.3605ed1ba5fd396c97fb5702b72689dd.js",
-  "service-worker.js": "/EconClass/poketeamreact/service-worker.js",
-  "static/css/main.739f6f14.chunk.css.map": "/EconClass/poketeamreact/static/css/main.739f6f14.chunk.css.map"
+  "main.css": "/poketeamreact/static/css/main.739f6f14.chunk.css",
+  "main.js": "/poketeamreact/static/js/main.181d86a1.chunk.js",
+  "main.js.map": "/poketeamreact/static/js/main.181d86a1.chunk.js.map",
+  "runtime~main.js": "/poketeamreact/static/js/runtime~main.276db5ed.js",
+  "runtime~main.js.map": "/poketeamreact/static/js/runtime~main.276db5ed.js.map",
+  "static/js/2.e6e200f5.chunk.js": "/poketeamreact/static/js/2.e6e200f5.chunk.js",
+  "static/js/2.e6e200f5.chunk.js.map": "/poketeamreact/static/js/2.e6e200f5.chunk.js.map",
+  "index.html": "/poketeamreact/index.html",
+  "precache-manifest.f4b6b8cbab156cb49d6b00571b5cc6ae.js": "/poketeamreact/precache-manifest.f4b6b8cbab156cb49d6b00571b5cc6ae.js",
+  "service-worker.js": "/poketeamreact/service-worker.js",
+  "static/css/main.739f6f14.chunk.css.map": "/poketeamreact/static/css/main.739f6f14.chunk.css.map"
 }
