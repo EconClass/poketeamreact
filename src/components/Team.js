@@ -8,7 +8,7 @@ class TeamView extends Component {
   renderTeam() {
     return (
       this.props.teams.map( team => (
-        <div>
+        <div className='grid-item'>
           <h3>{team.name}</h3>
         </div>
       ))
@@ -36,7 +36,11 @@ class Team extends Component {
   }
 
   render() {
-    return <TeamView teams={ this.state.teams } />
+    return (
+      <div className='grid-container'>
+        <TeamView teams={ this.state.teams } />
+      </div>
+    )
   }
 }
 
