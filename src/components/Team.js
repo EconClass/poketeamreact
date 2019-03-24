@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './Team.css';
 import './Pokemon.js'
-// const baseUrl = 'https://poke-team-node.herokuapp.com/';
-const devUrl = 'http://localhost:5000/'
+const baseUrl = 'https://poke-team-node.herokuapp.com/';
+// const devUrl = 'http://localhost:5000/'
 
 class TeamView extends Component {
   // constructor(props) {
@@ -37,7 +37,7 @@ class Team extends Component {
   }
   
   async componentDidMount() {
-    let response = await fetch(devUrl + 'teams/all')
+    let response = await fetch(baseUrl + 'teams/all')
     let teamsR = await response.json()
 
     this.setState({ teams: teamsR.docs });
