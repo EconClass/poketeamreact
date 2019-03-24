@@ -1,13 +1,13 @@
 {
-  "main.css": "/poketeamreact/static/css/main.739f6f14.chunk.css",
-  "main.js": "/poketeamreact/static/js/main.02044302.chunk.js",
-  "main.js.map": "/poketeamreact/static/js/main.02044302.chunk.js.map",
-  "runtime~main.js": "/poketeamreact/static/js/runtime~main.276db5ed.js",
-  "runtime~main.js.map": "/poketeamreact/static/js/runtime~main.276db5ed.js.map",
-  "static/js/2.e6e200f5.chunk.js": "/poketeamreact/static/js/2.e6e200f5.chunk.js",
-  "static/js/2.e6e200f5.chunk.js.map": "/poketeamreact/static/js/2.e6e200f5.chunk.js.map",
-  "index.html": "/poketeamreact/index.html",
-  "precache-manifest.ca43c9183dcd8ee85773195e0cfcf41a.js": "/poketeamreact/precache-manifest.ca43c9183dcd8ee85773195e0cfcf41a.js",
-  "service-worker.js": "/poketeamreact/service-worker.js",
-  "static/css/main.739f6f14.chunk.css.map": "/poketeamreact/static/css/main.739f6f14.chunk.css.map"
+  "main.css": "/EconClass/poketeamreact/blob/master/public/index.html/static/css/main.739f6f14.chunk.css",
+  "main.js": "/EconClass/poketeamreact/blob/master/public/index.html/static/js/main.02044302.chunk.js",
+  "main.js.map": "/EconClass/poketeamreact/blob/master/public/index.html/static/js/main.02044302.chunk.js.map",
+  "runtime~main.js": "/EconClass/poketeamreact/blob/master/public/index.html/static/js/runtime~main.9d9657ff.js",
+  "runtime~main.js.map": "/EconClass/poketeamreact/blob/master/public/index.html/static/js/runtime~main.9d9657ff.js.map",
+  "static/js/2.e6e200f5.chunk.js": "/EconClass/poketeamreact/blob/master/public/index.html/static/js/2.e6e200f5.chunk.js",
+  "static/js/2.e6e200f5.chunk.js.map": "/EconClass/poketeamreact/blob/master/public/index.html/static/js/2.e6e200f5.chunk.js.map",
+  "index.html": "/EconClass/poketeamreact/blob/master/public/index.html/index.html",
+  "precache-manifest.79ee866da89ea99f79cbd418e6d83dd7.js": "/EconClass/poketeamreact/blob/master/public/index.html/precache-manifest.79ee866da89ea99f79cbd418e6d83dd7.js",
+  "service-worker.js": "/EconClass/poketeamreact/blob/master/public/index.html/service-worker.js",
+  "static/css/main.739f6f14.chunk.css.map": "/EconClass/poketeamreact/blob/master/public/index.html/static/css/main.739f6f14.chunk.css.map"
 }
