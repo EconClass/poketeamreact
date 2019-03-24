@@ -1,15 +1,23 @@
 import React, { Component } from 'react';
 import './Team.css';
-
+import './Pokemon.js'
 // const baseUrl = 'https://poke-team-node.herokuapp.com/';
 const devUrl = 'http://localhost:5000/'
 
 class TeamView extends Component {
+  // constructor(props) {
+  //   super(props)
+  //   this.state = {
+  //     expanded: false
+  //   }
+  // }
+
   renderTeam() {
     return (
       this.props.teams.map( team => (
         <div className='grid-item'>
           <h3>{team.name}</h3>
+
         </div>
       ))
     )
