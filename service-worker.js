@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/EconClass/poketeamreact/blob/master/public/index.html/precache-manifest.79ee866da89ea99f79cbd418e6d83dd7.js"
+  "/EconClass/poketeamreact/precache-manifest.3605ed1ba5fd396c97fb5702b72689dd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/EconClass/poketeamreact/blob/master/public/index.html/index.html", {
+workbox.routing.registerNavigationRoute("/EconClass/poketeamreact/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
