@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8693961e4185b6bb6b87",
+    "revision": "f31005de9411dc77d455",
     "url": "/poketeamreact/static/css/main.739f6f14.chunk.css"
   },
   {
-    "revision": "8693961e4185b6bb6b87",
-    "url": "/poketeamreact/static/js/main.b893a56c.chunk.js"
+    "revision": "f31005de9411dc77d455",
+    "url": "/poketeamreact/static/js/main.7028bea2.chunk.js"
   },
   {
     "revision": "6688b9fc002b7d646d1c",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/poketeamreact/static/js/2.726f2a50.chunk.js"
   },
   {
-    "revision": "b1fc5a249fc25ca1c8cb3720fc5af685",
+    "revision": "42254ea5ab273b27dff70d211bea3331",
     "url": "/poketeamreact/index.html"
   }
 ];
