@@ -1,34 +1,22 @@
 import React, { Component } from 'react';
 import './Team.css';
 import './Pokemon.js';
-/**
- * =====================TODO: CARDS=====================
- * import PropTypes from 'prop-types';
- * import { withStyles } from '@material-ui/core/styles';
- * import Card from '@material-ui/core/Card';
- * import CardActions from '@material-ui/core/CardActions';
- * import CardContent from '@material-ui/core/CardContent';
- * import Button from '@material-ui/core/Button';
- */
+import '../SimpleCard.js';
+import SimpleCard from '../SimpleCard.js';
 
 const url = 'https://poke-team-node.herokuapp.com/teams/all';
 
 // ==================VIEWS================== \\
 class TeamView extends Component {
-  // constructor(props) {
-  //   super(props)
-  //   this.state = {
-  //     expanded: false
-  //   }
-  // }
 
   renderTeam() {
     return (
       this.props.teams.map( team => (
-        <div className='grid-item'>
-          <h3>{team.name}</h3>
+        <SimpleCard key={ team._id } props={ team } />
+        // <div className='grid-item'>
+        //   <h3>{team.name}</h3>
 
-        </div>
+        // </div>
       ))
     )
   }
