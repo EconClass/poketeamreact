@@ -1,13 +1,13 @@
 {
   "main.css": "/poketeamreact/static/css/main.739f6f14.chunk.css",
-  "main.js": "/poketeamreact/static/js/main.181d86a1.chunk.js",
-  "main.js.map": "/poketeamreact/static/js/main.181d86a1.chunk.js.map",
+  "main.js": "/poketeamreact/static/js/main.b893a56c.chunk.js",
+  "main.js.map": "/poketeamreact/static/js/main.b893a56c.chunk.js.map",
   "runtime~main.js": "/poketeamreact/static/js/runtime~main.276db5ed.js",
   "runtime~main.js.map": "/poketeamreact/static/js/runtime~main.276db5ed.js.map",
-  "static/js/2.e6e200f5.chunk.js": "/poketeamreact/static/js/2.e6e200f5.chunk.js",
-  "static/js/2.e6e200f5.chunk.js.map": "/poketeamreact/static/js/2.e6e200f5.chunk.js.map",
+  "static/js/2.726f2a50.chunk.js": "/poketeamreact/static/js/2.726f2a50.chunk.js",
+  "static/js/2.726f2a50.chunk.js.map": "/poketeamreact/static/js/2.726f2a50.chunk.js.map",
   "index.html": "/poketeamreact/index.html",
-  "precache-manifest.f4b6b8cbab156cb49d6b00571b5cc6ae.js": "/poketeamreact/precache-manifest.f4b6b8cbab156cb49d6b00571b5cc6ae.js",
+  "precache-manifest.fa6bb8ef2198694f1aeca9e7bcce5d6e.js": "/poketeamreact/precache-manifest.fa6bb8ef2198694f1aeca9e7bcce5d6e.js",
   "service-worker.js": "/poketeamreact/service-worker.js",
   "static/css/main.739f6f14.chunk.css.map": "/poketeamreact/static/css/main.739f6f14.chunk.css.map"
 }
