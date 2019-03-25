@@ -13,10 +13,6 @@ class TeamView extends Component {
     return (
       this.props.teams.map( team => (
         <SimpleCard key={ team._id } props={ team } />
-        // <div className='grid-item'>
-        //   <h3>{team.name}</h3>
-
-        // </div>
       ))
     )
   }
